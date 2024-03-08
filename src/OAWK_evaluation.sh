@@ -67,11 +67,11 @@ while [[ $# -gt 0 ]]
       HELP=1;
       shift
     ;;
-    -r|--ref|--dir-reference)
+    -r|--ref|--reference)
       REF_FILE="$2";
       shift 2;
     ;;
-    -o|--out|--dir-reconstructed)
+    -o|--out|--reconstructed|--consensus)
       file="$2";
       shift 2;
     ;;
