@@ -29,7 +29,7 @@ On using this software/method please cite:
 
 ### ISSUES ###
 
-For any issue let us know at [issues link](https://github.com/cobilab/OAWK_consensus_generator/issues).
+For any issue let us know at [issues link](https://github.com/cobilab/OAWK/issues).
 
 ### LICENSE ###
 
