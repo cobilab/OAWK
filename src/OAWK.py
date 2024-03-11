@@ -218,7 +218,7 @@ if __name__ == '__main__':
 	warnings.filterwarnings("ignore")
 
 	parser = argparse.ArgumentParser(description="Index",
-	usage="python3 LAWK.py -i <aligned multi-FASTA> -v <Name virus> -k <values of k> -b <value of b>")
+	usage="python3 OAWK.py -i <aligned multi-FASTA> -v <Name virus> -k <values of k> -b <value of b>")
 
 	parser.add_argument("-i", help="Aligned multi-FASTA", type=str, required=True)
 	parser.add_argument("-v", help="Name of the virus.", type=str, required=False)
