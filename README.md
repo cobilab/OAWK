@@ -6,7 +6,7 @@ Consensus-generating tool from aligned multi-FASTA files.
 
 To download OAWK in a Linux system, please run:
 <pre>
-git clone https://github.com/cobilab/OAWK_consensus_generator.git
+git clone https://github.com/cobilab/OAWK.git
 cd src
 chmod +x *.sh
 </pre>
